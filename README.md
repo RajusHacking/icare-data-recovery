@@ -5,6 +5,6 @@
 
 <div background='red'>
   License key : <b>KPDEKP4BG3AWNWKDIJCE2NTXJ3HXQXT3KI4XQTJV</b>
-  <br/>
-  <a href='https://youtu.be/j7QnOjrdJUo'> How to install?</a>
+  
 </div>
+<a href='https://youtu.be/j7QnOjrdJUo'> How to install?</a>
