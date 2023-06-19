@@ -1,14 +1,6 @@
+<div align='center'><a href='https://www.icare-recovery.com/data-recovery-free.html'><img width='500' height='300' src='https://qph.cf2.quoracdn.net/main-qimg-a8cd8d139ed16779a329990ba32eb0ab-lq'/></a> </div>
 
-<div align='center'><a  align="left"  width='390' height='300' href='https://www.icare-recovery.com/data-recovery-free.html'><img src='https://qph.cf2.quoracdn.net/main-qimg-a8cd8d139ed16779a329990ba32eb0ab-lq' width='390' height='300'/></a>
-
-<a  width='300' height='150' align="right" href='https://download.icare-recovery.com/icarefree.zip'><img src='https://www.pngmart.com/files/10/Download-Now-Button-PNG-Free-Download.png' width='270' height='140'/></a></div>
-
-
-
-
-<div align='center'><a href='https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html'><img width='500' height='300' src='https://cdn.windowsreport.com/wp-content/uploads/2022/11/vmware-17-pro-workstation.jpg'/></a> </div>
-
-<h1 tabindex="-1" dir="auto"><a id="user-content-yarn-and-nodejs-for-github-actions" class="anchor" aria-hidden="true" href="#yarn-and-nodejs-for-github-actions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>VMwere Workstation 17 Pro</h1>
+<h1 tabindex="-1" dir="auto"><a id="user-content-yarn-and-nodejs-for-github-actions" class="anchor" aria-hidden="true" href="#yarn-and-nodejs-for-github-actions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Icare-data-recovery</h1>
   
   <a href='https://download.icare-recovery.com/icarefree.zip ' dir="auto">Downloads Now</a>
   <p class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
