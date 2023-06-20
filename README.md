@@ -8,7 +8,7 @@
     
   <p dir="auto">License Key</p>
   <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
-    <pre> <code><b>KPDEKP4BG3AWNWKDIJCE2NTXJ3HXQXT3KI4XQTJV</b></code></pre></div>
+    <pre><code><b>KPDEKP4BG3AWNWKDIJCE2NTXJ3HXQXT3KI4XQTJV</b></code></pre></div>
 
 <a href='https://youtu.be/j7QnOjrdJUo'> How to install?</a>
   <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
